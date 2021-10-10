@@ -1,7 +1,6 @@
 package co.n0rthyankt0n.tutorialac;
 
-import co.n0rthyankt0n.tutorialac.check.checks.Fly;
-import co.n0rthyankt0n.tutorialac.check.checks.Speed;
+import co.n0rthyankt0n.tutorialac.check.checks.*; //if forgot to do it ( from: xxx.Fly; xxx.Speed; to: xxx.*; xddd) 
 import org.bukkit.event.Listener;
 import org.bukkit.plugin.java.JavaPlugin;
 
