@@ -1,0 +1,5 @@
+name: TutorialAC
+version: ${project.version}
+main: co.n0rthyankt0n.tutorialac.TutorialAC
+authors: [BaGuAr]
+description: made for tutorial. very falsey anti-cheat
